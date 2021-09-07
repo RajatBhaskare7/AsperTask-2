@@ -46,7 +46,7 @@ main{
 .img{
 	height:300px;
 	width:100%;
-	background-image:url(images/IMG-20210214-WA0082.jpg);
+	background-image:url(https://th.bing.com/th/id/R.2cab8876ba0dbf92d83f14ef2521993b?rik=ppVK1Jxmb4EUug&riu=http%3a%2f%2fwallup.net%2fwp-content%2fuploads%2f2016%2f05%2f14%2f62076-Naruto_Shippuuden-Uzumaki_Naruto.jpg&ehk=OZY5yBpPDxdGwGTKGMcULWCOok2Ag0CCfnAq1Yidsz0%3d&risl=&pid=ImgRaw&r=0);
 	background-size:cover;
 	background-position:center;
 	display:flex;
